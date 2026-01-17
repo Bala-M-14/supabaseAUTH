@@ -65,6 +65,7 @@ export default function SignUp() {
                        border border-black
                        transition-all duration-200
                        hover:bg-gray-200
+                       cursor-pointer
                        active:scale-95"
           >
             Sign Up

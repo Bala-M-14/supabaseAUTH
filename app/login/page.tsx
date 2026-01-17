@@ -69,7 +69,9 @@ export default function Login() {
                        border border-black
                        transition-all duration-200
                        hover:bg-gray-200
-                       active:scale-95"
+                       cursor-pointer
+                       active:scale-95
+                       "
           >
             Login
           </button>
